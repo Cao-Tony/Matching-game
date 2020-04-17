@@ -7,6 +7,6 @@ this game is a card matching game. Player have to match 8 pairs within the time 
 
 ## technologies used 
 - Xcode 
-- Swift 
+- swift 
 - UIKit 
 - custom classes 
